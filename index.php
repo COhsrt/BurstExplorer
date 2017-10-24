@@ -1,5 +1,7 @@
 
 <?php
+
+ini_set("date.timezone", "Europe/Athens");
 
 // Kickstart the framework
 $f3=require('lib/base.php');
